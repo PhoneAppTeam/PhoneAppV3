@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">PhoneAppMk2</string>
+
+    <string name="music_play">Play</string>
+    <string name="music_shuffle">Shuffle</string>
+    <string name="music_end">End</string>
+
+</resources>
